@@ -6,15 +6,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
- <script src='<c:url value="pages/jsfiles/jquery.min.321.js"/>'></script>
- <script src='<c:url value="pages/jsfiles/bootstrap.min.js"/>'></script>
-<script src='<c:url value="pages/jsfiles/jquery.min.213.js"/>'></script>
-  <script src='<c:url value="pages/jsfiles/CompanyProfile.js"/>'></script> 
+ <script src='<c:url value="/pages/jsfiles/jquery.min.321.js"/>'></script>
+ <script src='<c:url value="/pages/jsfiles/bootstrap.min.js"/>'></script>
+<script src='<c:url value="/pages/jsfiles/jquery.min.213.js"/>'></script>
+  <script src='<c:url value="/pages/jsfiles/CompanyProfile.js"/>'></script> 
 
  <script src='<c:url value="/pages/jsfiles/jquery.min.112.js"/>'></script>
   
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-<link rel="stylesheet" href='<c:url value="pages/cssfiles/CompanyProfile.css"/>'>
+<link rel="stylesheet" href='<c:url value="/pages/cssfiles/CompanyProfile.css"/>'>
 
   <script src="https://cdn.jsdelivr.net/jquery.validation/1.16.0/jquery.validate.min.js"></script>
   <script src="https://cdn.jsdelivr.net/jquery.validation/1.16.0/additional-methods.min.js"></script>

@@ -37,7 +37,7 @@
 						class="icon-bar"></span>
 				</button>
 				<h1>
-					<a class="navbar-brand text-white" style="color: orange" href="/home">
+					<a class="navbar-brand text-white" style="color: orange" href="/">
 						<i class="fab fa-laravel"></i> Mild International
 					</a>
 				</h1>

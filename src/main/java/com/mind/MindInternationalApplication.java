@@ -6,14 +6,8 @@ import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
 
 @SpringBootApplication
-public class MindInternationalApplication extends SpringBootServletInitializer{
+public class MindInternationalApplication {
 
-	@Override
-	protected SpringApplicationBuilder configure(SpringApplicationBuilder application)
-	{
-		return application.sources(MindInternationalApplication.class);
-	}
-	
 	public static void main(String[] args) {
 		SpringApplication.run(MindInternationalApplication.class, args);
 	}
